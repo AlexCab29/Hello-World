@@ -6,11 +6,6 @@
 ## **Semana Tec**
 
 🥇
-🎱
-✈️
-🩹
-
-🍓
 # 2. Tipos de letra
 
 **bold text**
