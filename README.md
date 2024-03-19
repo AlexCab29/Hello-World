@@ -6,6 +6,8 @@
 ## **Semana Tec**
 
 🥇
+- VAMOS BARCA
+- ARRIBA LA SNM
 # 2. Tipos de letra
 
 **bold text**
