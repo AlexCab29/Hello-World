@@ -37,7 +37,7 @@
 
 # 5. Código
 
-```phyton 
+```python 
 
 from turtle import *
 
