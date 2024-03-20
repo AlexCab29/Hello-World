@@ -37,7 +37,7 @@
 
 # 5. Código
 
-```python 
+```Python 
 
 from turtle import *
 
@@ -115,6 +115,7 @@ onkey(lambda: store('shape', circle), 'c')
 onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
 done()
+
 ```
 
 # 6. Regla
